@@ -12,5 +12,3 @@
 [![Anurag의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=JungHyeonKim1)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungHyeonKim1)](https://github.com/anuraghazra/github-readme-stats)
-
-api/top-langs?username=anuraghazra
