@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[!지브리 남주 pan_tto(https://www.google.com/url?sa=i&url=https%3A%2F%2Finterior.infotiket.com%2Fwp%2F%25EC%25A7%2580%25EB%25B8%258C%25EB%25A6%25AC-%25EB%2582%25A8%25EC%25A3%25BC-%25EB%25AA%25A8%25EC%259D%258C%2F&psig=AOvVaw1sROTqxtzsEon79Fps5cec&ust=1612342495705000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJi8iozqyu4CFQAAAAAdAAAAABAE)
+[!지브리 남주 pan_tto(https://www.google.com/url?sa=i&url=https%3A%2F%2Finterior.infotiket.com%2Fwp%2F%25EC%25A7%2580%25EB%25B8%258C%25EB%25A6%25AC-%25EB%2582%25A8%25EC%25A3%25BC-%25EB%25AA%25A8%25EC%259D%258C%2F&psig=AOvVaw1sROTqxtzsEon79Fps5cec&ust=1612342495705000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJi8iozqyu4CFQAAAAAdAAAAABAE)]
 
 - 🔭 I’m currently working on 'Samsung Youth SW Academy'
 - 🌱 I’m currently learning 'web(html & css)'
