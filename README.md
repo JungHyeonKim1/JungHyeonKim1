@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[!지브리 남주 pan_tto(https://1.gall-img.com/tdgall/files/attach/images/82/947/623/070/17dbaf6f3dcf93643dbee746514349b4.jpg)]
+[!지브리 남주 pan_tto](https://1.gall-img.com/tdgall/files/attach/images/82/947/623/070/17dbaf6f3dcf93643dbee746514349b4.jpg)
 
 - 🔭 I’m currently working on 'Samsung Youth SW Academy'
 - 🌱 I’m currently learning 'web(html & css)'
