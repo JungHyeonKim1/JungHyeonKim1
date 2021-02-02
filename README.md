@@ -12,4 +12,4 @@
 [![Anurag의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=JungHyeonKim1)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme 카드](https://github-readme-stats.vercel.app/api/pin/?username=JungHyeonKim1&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-https://github.com/anuraghazra/github-readme-stats
+https://github.com/JungHyeonKim1/github-readme-stats
